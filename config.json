@@ -1,14 +1,1 @@
-{
-    "title": "Test",
-    "baseURL": "https:\/\/test.com\/test",
-    "languageCode": "en-us",
-    "theme": "tvpage",
-    "disablePathToLower": true,
-    "enableRobotsTXT": true,
-    "galleryChannelIds": "",
-    "params": {
-        "loginId": "1758991",
-        "firstpartycookies": true,
-        "cookiedomain": "test.com"
-    }
-}
+"{\n    \"title\": \"Test\",\n    \"baseURL\": \"https:\\\/\\\/test.com\\\/test\",\n    \"languageCode\": \"en-us\",\n    \"theme\": \"tvpage\",\n    \"disablePathToLower\": true,\n    \"enableRobotsTXT\": true,\n    \"galleryChannelIds\": \"117404170\",\n    \"params\": {\n        \"loginId\": \"1758991\",\n        \"firstpartycookies\": true,\n        \"cookiedomain\": \"test.com\"\n    }\n}"
